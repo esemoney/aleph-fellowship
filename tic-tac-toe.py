@@ -100,7 +100,7 @@ def insert_letter(letter, position):
     else:
         print("Can't insert there!")
         position = int(input("Please enter new position:  "))
-        insertLetter(letter, position)
+        insert_letter(letter, position)
         return
 
 
