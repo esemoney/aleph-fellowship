@@ -1,5 +1,5 @@
 # first I create a list of the gameboard positions then I convert it to a
-# dictionary to so i can assign values to the positions
+# dictionary to i can assign values to the positions
 
 positions = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
